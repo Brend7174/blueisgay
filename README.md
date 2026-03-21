@@ -13,6 +13,7 @@ Now, you can use this command:
 Then my fork of SameBoy will open and the kind Blue will transcribe the midi for you.. This works with both gbs files and normal roms. For some reason the midis might come out broken and unusable in GarageBand or Logic Pro, despite working in other softwares. YES IT IS VERY BUGGY I WILL FIX IT
 
 Please report all bugs because I want to fix them.
+**NOTE: The path in the .js file MIGHT have to be edited if you are using a windows or linux build of sameboy!**
 
 ## to be done
 So far I only have pitch detection and volume detection, and it's a bit janky. I will be adding things like pitch bend soon.
